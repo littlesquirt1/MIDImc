@@ -1,4 +1,4 @@
-#Welcome to MIDIMC
+# Welcome to MIDIMC
 Play MIDI keyboard and hear notes in minecraft /playsound!
 
 ONLY WORKS WITH ONLINE MODE = FALSE SERVERS!
