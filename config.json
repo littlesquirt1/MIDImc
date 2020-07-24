@@ -1,1 +1,4 @@
-
+{
+    "serverAdress": "localhost",
+    "serverPort": "25565",
+}
