@@ -1,0 +1,8 @@
+{
+    "dependencies": {
+        "mineflayer": "PrismarineJS/mineflayer",
+        "midi-player-js": "",
+        "jzz": ""
+	"requirejs": ""
+    }
+}
